@@ -1,0 +1,1 @@
+{"id":"jJcEW97bdQXI1UBF","clusterName":"Cluster PasswordAuthenticator","keyspace":"viking","body":"INSERT INTO viking.employee (emp_id,emp_name,city,state) VALUES (56,'Neekita','canada','Amsterdam');","modified":true,"filename":"script_1.cql","source":"action"}
